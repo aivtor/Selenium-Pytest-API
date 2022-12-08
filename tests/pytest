@@ -1,0 +1,4 @@
+[pytest]
+markers =
+    regression #marker for regression tests
+    win10
